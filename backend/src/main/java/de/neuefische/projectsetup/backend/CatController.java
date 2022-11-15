@@ -10,6 +10,6 @@ public class CatController {
 
     @GetMapping
     String cat() {
-        return "Meau";
+        return "Meau!";
     }
 }
