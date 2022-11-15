@@ -1,3 +1,6 @@
-ec2-3-73-50-34.eu-central-1.compute.amazonaws.com
-admin
-uMXFqJQ5TyuiRXhc
+# Tomcat deployment
+
+See provisioning script:
+```
+https://github.com/bartfastiel/spring-boot-tomcat-deployment/blob/main/provisioning.sh
+```
